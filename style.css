@@ -1,0 +1,50 @@
+.flex-parent {
+    display : flex;
+    font-size: 2rem;
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    height: 100vh;
+}
+
+.enfant1 {
+    background-color: royalblue;
+    color: white;
+    height: 33vh ;
+    
+    
+}
+
+.enfant2 {
+    background-color: lightgray;
+    color: rgb(5, 5, 5);
+    height: 33vh ;
+
+    
+}
+
+.enfant3 {
+    background-color:red;
+    color: white;
+    height: 33vh;
+    
+    
+}
+
+.enfant4 {
+    background-color: black;
+    color: white;
+    height: 33vh;
+    
+    
+
+}
+
+.enfant5 {
+    background-color:aqua;
+    color: white;
+    height: 33vh;
+    
+    
+
+}
